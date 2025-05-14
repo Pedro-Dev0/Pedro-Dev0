@@ -2,8 +2,9 @@
 <br>
 <img alt=code src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkOWNpd2Q1OXZjMmFsc2psMzdxNHhjcDk1aDgwZWtpeGpwd2hhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif"  width="286" height="auto"/>
 
-- 🔭 Procurando estágio na área de TI
-- 🌱 Estudo no momento HTML, CSS e Javascript
+- 💼 Procurando estágio na área de TI
+- 📖 Estudo no momento HTML, CSS e Javascript
+- 📚 Estudante de ADS(Analise e desenvolvimento de sistemas| 3º semestre Anhanguera
 - 💬 Sou bem comunicativo e trabalho em equipe
 
 <div style="display: inline_block"><br>
