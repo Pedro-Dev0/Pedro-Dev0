@@ -4,7 +4,7 @@
 
 - 💼 Procurando estágio na área de TI
 - 📖 Estudo no momento HTML, CSS e Javascript
-- 📚 Estudante de ADS(Analise e desenvolvimento de sistemas| 3º semestre Anhanguera
+- 📚 Estudante de ADS(Analise e desenvolvimento de sistemas| 4º semestre Anhanguera
 - 💬 Sou bem comunicativo e trabalho em equipe
 
 <div style="display: inline_block"><br>
