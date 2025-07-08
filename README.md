@@ -3,7 +3,7 @@
 <img alt=code src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlkOWNpd2Q1OXZjMmFsc2psMzdxNHhjcDk1aDgwZWtpeGpwd2hhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif"  width="330" height="auto"/>
 
 - 💼 Procurando estágio na área de TI
-- 📖 Estudo no momento HTML, CSS e Javascript
+- 📖 Estudo no momento HTML| CSS| JavaScript| Bootstrap| SQL| MySQL| .Net|C#
 - 📚 Estudante de ADS(Analise e desenvolvimento de sistemas| 4º semestre Anhanguera
 - 💬 Sou bem comunicativo e trabalho em equipe
 
