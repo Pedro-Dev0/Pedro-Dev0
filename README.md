@@ -1,6 +1,6 @@
 ### Olá, eu sou o Pedro Sampaio!👋
 
-- 💼 Help Desk e programador no Cartorio Paulista(2 tabelião de notas)...
+- 💼 Help Desk e programador no Cartório Paulista(2 tabelião de notas)...
 - 📖 Estudo no momento Back-End com flask, django e APIRESTFUL
 - 📚 Bacharel de ADS(Analise e desenvolvimento de sistemas| Concluido!
 - 💬 Comunicativo e brincalhão😂
