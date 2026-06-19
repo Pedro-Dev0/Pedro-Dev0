@@ -1,19 +1,9 @@
-## Olá, eu sou o Pedro!👋
-<br>
-<img alt=status src=https://github-readme-stats.vercel.app/api?username=Pedro-Dev0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)>
+##Olá, eu sou o Pedro Sampaio pessoal!👋
 
-- 💼 Procurando estágio na área de TI
-- 📖 Estudo no momento HTML| CSS| JavaScript| Bootstrap| SQL| MySQL| .Net|C#
-- 📚 Estudante de ADS(Analise e desenvolvimento de sistemas| 4º semestre Anhanguera
-- 💬 Sou bem comunicativo e trabalho em equipe
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
+- 💼 Help Desk e programador no Cartorio Paulista(2 tabelião de notas)...
+- 📖 Estudo no momento Back-End com flask, django e APIRESTFUL
+- 📚 Bacharel de ADS(Analise e desenvolvimento de sistemas| Concluido!
+- 💬 Comunicativo e brincalhão😂
  
 <div>
   <a href ="mailto:henripedro652@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
