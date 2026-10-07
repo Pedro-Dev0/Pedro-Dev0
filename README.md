@@ -16,3 +16,6 @@
   <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
   <br>
 </div>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1cXptZDFwZjRhOTJwbnY4ankxOXozZWV3ZGxkZ2o5Y2RhN2F4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKvRdqp4xzNao/giphy.gif"  />
+</div>
