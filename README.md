@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Olá👋! Sou o Pedro!</h2>
+<h2 data-importer="text" align="left">Olá👋 Sou o Pedro!</h2>
 
 ###
 
