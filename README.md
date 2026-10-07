@@ -1,15 +1,11 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=56&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1cXptZDFwZjRhOTJwbnY4ankxOXozZWV3ZGxkZ2o5Y2RhN2F4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKvRdqp4xzNao/giphy.gif" autoplay loop muted playsinline />
-</div>
-<h1 data-importer="text" align="left">Olá, aqui é o Pedro Sampaio!👋</h1>
 
-- 💼 Help Desk e programador no Cartório Paulista(2 tabelião de notas)...
-- 📖 Estudo no momento Back-End com flask, django e APIRESTFUL
-- 📚 Bacharel de ADS(Analise e desenvolvimento de sistemas| Concluido!
-- 💬 Comunicativo e brincalhão😂
+###
+
+<p data-importer="text" align="left">- 💼 Help Desk e programador no Cartório Paulista(2 tabelião de notas)...<br>- 📖 Estudo no momento Back-End com flask, django e APIRESTFUL<br>- 📚 Bacharel de ADS(Analise e desenvolvimento de sistemas| Concluido!<br>- 💬 Comunicativo e brincalhão😂</p>
+
 ###
 
 <div data-importer="socials" align="center">
@@ -21,9 +17,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
 ###
@@ -67,6 +63,3 @@
 </div>
 
 ###
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1cXptZDFwZjRhOTJwbnY4ankxOXozZWV3ZGxkZ2o5Y2RhN2F4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKvRdqp4xzNao/giphy.gif" autoplay loop muted playsinline />
-</div>
