@@ -6,7 +6,17 @@
 
 ###
 
-<p data-importer="text" align="left">- 💼 Help Desk e programador no Cartório Paulista(2 tabelião de notas)...<br><br><br>- 📖 Estudo no momento Back-End com flask, django e APIRESTFUL<br><br><br>- 📚 Bacharel de ADS(Analise e desenvolvimento de sistemas| Concluido!<br><br><br>- 💬 Comunicativo e brincalhão😂</p>
+<p data-importer="text" align="left">Desenvolvedor Back-End | Automação e Soluções Corporativas
+
+💼 Programador e Help Desk no Cartório Paulista (2º Tabelião de Notas), atuando ativamente na otimização de rotinas.
+
+💻 Desenvolvendo APIs modernas e escaláveis com Python, Flask, Django e arquitetura RESTful.
+
+⚙️ Experiência em estruturar automações locais para eliminação de trabalho braçal e processos repetitivos.
+
+📚 Bacharel em Análise e Desenvolvimento de Sistemas (Concluído).
+
+🤝 Perfil colaborativo, com excelente comunicação e foco em resolver problemas reais de negócio.</p>
 
 ###
 
