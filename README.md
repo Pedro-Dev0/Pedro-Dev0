@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">================================Contatos===============================</h3>
+<h3 data-importer="text" align="center">Contatos</h3>
 
 ###
 
