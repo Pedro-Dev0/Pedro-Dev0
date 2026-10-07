@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm84Z2xiZGs2aGNnOW84cXhvdmV2ZWlpeXlvenBrYnpxem9zaHFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlIDueXmcWNTPO0/giphy.gif"  />
+  <img data-importer="image" height="150" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm84Z2xiZGs2aGNnOW84cXhvdmV2ZWlpeXlvenBrYnpxem9zaHFkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlIDueXmcWNTPO0/giphy.gif"  />
 </div>
 ### Olá, eu sou o Pedro Sampaio!👋
 
