@@ -7,7 +7,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Pedro-Dev0&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -79,11 +79,5 @@
 <div data-importer="image" align="center">
   <img data-importer="image" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213aDh0dzgwb3BscWY3bnV1OXBzeTNud2xwOHdtNmRvbnVsYTFlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9jShLBEYbcHj0DIKA/giphy.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/snake-output/snake.svg" alt="Snake animation" />
 
 ###
