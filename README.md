@@ -2,16 +2,17 @@
 
 ###
 
-<img data-importer="image" align="right" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpla3NlNjQ0Ym8zZXVtNGM2enQzaW16OXUzM2V5bjZsZXVyMWJ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif"  />
+<img data-importer="image" align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpla3NlNjQ0Ym8zZXVtNGM2enQzaW16OXUzM2V5bjZsZXVyMWJ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif"  />
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 data-importer="text" align="center">==============================Tecnologias===============================</h3>
 
