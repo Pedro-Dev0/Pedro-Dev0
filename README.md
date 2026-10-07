@@ -6,9 +6,7 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Pedro-Dev0/Pedro-Dev0/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p data-importer="text" align="left">- 💼 Help Desk e programador no Cartório Paulista(2 tabelião de notas)...<br>- 📖 Estudo no momento Back-End com flask, django e APIRESTFUL<br>- 📚 Bacharel de ADS(Analise e desenvolvimento de sistemas| Concluido!<br>- 💬 Comunicativo e brincalhão😂</p>
 
 ###
 
