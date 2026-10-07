@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 💼 Help Desk e programador no Cartório Paulista(2 tabelião de notas)...<br>- 📖 Estudo no momento Back-End com flask, django e APIRESTFUL<br>- 📚 Bacharel de ADS(Analise e desenvolvimento de sistemas| Concluido!<br>- 💬 Comunicativo e brincalhão😂</p>
+<p data-importer="text" align="left">- 💼 Help Desk e programador no Cartório Paulista(2 tabelião de notas)...<br><br><br>- 📖 Estudo no momento Back-End com flask, django e APIRESTFUL<br><br><br>- 📚 Bacharel de ADS(Analise e desenvolvimento de sistemas| Concluido!<br><br><br>- 💬 Comunicativo e brincalhão😂</p>
 
 ###
 
