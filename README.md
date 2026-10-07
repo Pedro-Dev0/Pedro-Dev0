@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1cXptZDFwZjRhOTJwbnY4ankxOXozZWV3ZGxkZ2o5Y2RhN2F4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKvRdqp4xzNao/giphy.gif"  />
+  <img data-importer="image" height="200" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1cXptZDFwZjRhOTJwbnY4ankxOXozZWV3ZGxkZ2o5Y2RhN2F4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKvRdqp4xzNao/giphy.gif"  />
 </div>
 <h1 data-importer="text" align="left">Olá, aqui é o Pedro Sampaio!👋</h1>
 
@@ -17,5 +17,5 @@
   <br>
 </div>
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1cXptZDFwZjRhOTJwbnY4ankxOXozZWV3ZGxkZ2o5Y2RhN2F4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKvRdqp4xzNao/giphy.gif"  />
+  <img data-importer="image" height="200" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV1cXptZDFwZjRhOTJwbnY4ankxOXozZWV3ZGxkZ2o5Y2RhN2F4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKvRdqp4xzNao/giphy.gif"  />
 </div>
